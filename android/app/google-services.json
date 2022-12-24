@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751834767614",
+    "project_id": "trips-772ce",
+    "storage_bucket": "trips-772ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751834767614:android:f4faa95fcae779f5bc85af",
+        "android_client_info": {
+          "package_name": "com.example.easy_trip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751834767614-fsg0l8chaldhkic67q2m4k86t7el3mc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzWJVgon3ty1ufbPy1flBi01dI-T5qm3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751834767614-fsg0l8chaldhkic67q2m4k86t7el3mc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
